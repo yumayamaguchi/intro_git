@@ -1,2 +1,4 @@
 Gitの練習をしていきます
 もう少し勉強頑張ります！
+・git add
+・git commit
